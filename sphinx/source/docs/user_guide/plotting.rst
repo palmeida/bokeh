@@ -165,7 +165,7 @@ oval shapes:
 Images
 ~~~~~~
 
-You can dipslay images on Bokeh plots using the |image|, |image_rgba|, and
+You can display images on Bokeh plots using the |image|, |image_rgba|, and
 |image_url| glyph methods.
 
 The first example here shows how to display images in Bokeh plots from
